@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="esrb_rating" table="x_146799_rp_video_games" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ce8e7080fb203001d6ccf8ce1050e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:05:11</sys_updated_on>
+            <value>n_a</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KA</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>200</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:05:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab49eb080fb203001d6ccf8ce1050e3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:05:50</sys_updated_on>
+            <value>ka</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>300</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0679eb080fb203001d6ccf8ce1050e40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:06:33</sys_updated_on>
+            <value>e</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>T</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>400</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:07:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f99a3480fb203001d6ccf8ce1050e5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:07:12</sys_updated_on>
+            <value>t</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>M</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>500</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:07:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03b9eb080fb203001d6ccf8ce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:07:43</sys_updated_on>
+            <value>m</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esrb_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RP</label>
+            <language>en</language>
+            <name>x_146799_rp_video_games</name>
+            <sequence>600</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:08:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08e9ef080fb203001d6ccf8ce1050e16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:08:20</sys_updated_on>
+            <value>rp</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esrb_rating</element>
+            <name>x_146799_rp_video_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-28 12:05:11</sys_created_on>
+            <sys_id>0a29eb080fb203001d6ccf8ce1050e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>esrb_rating</sys_name>
+            <sys_package display_value="Rotten Patatoes" source="x_146799_rp">6833e3040fb203001d6ccf8ce1050e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Patatoes">6833e3040fb203001d6ccf8ce1050e61</sys_scope>
+            <sys_update_name>sys_choice_x_146799_rp_video_games_esrb_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-28 12:05:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
